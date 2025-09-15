@@ -1,4 +1,4 @@
 # new project
 
 This project was create from local systme.
-create by Rahul Kumar.
+create by Rahul Kumar
